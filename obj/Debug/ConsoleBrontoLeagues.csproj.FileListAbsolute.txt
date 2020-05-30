@@ -1,0 +1,9 @@
+C:\Users\wilson\Documents\Proyectos\Bronto\ConsoleBrontoLeagues\bin\Debug\ConsoleBrontoLeagues.exe.config
+C:\Users\wilson\Documents\Proyectos\Bronto\ConsoleBrontoLeagues\bin\Debug\ConsoleBrontoLeagues.exe
+C:\Users\wilson\Documents\Proyectos\Bronto\ConsoleBrontoLeagues\bin\Debug\ConsoleBrontoLeagues.pdb
+C:\Users\wilson\Documents\Proyectos\Bronto\ConsoleBrontoLeagues\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wilson\Documents\Proyectos\Bronto\ConsoleBrontoLeagues\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wilson\Documents\Proyectos\Bronto\ConsoleBrontoLeagues\obj\Debug\ConsoleBrontoLeagues.csprojAssemblyReference.cache
+C:\Users\wilson\Documents\Proyectos\Bronto\ConsoleBrontoLeagues\obj\Debug\ConsoleBrontoLeagues.csproj.CopyComplete
+C:\Users\wilson\Documents\Proyectos\Bronto\ConsoleBrontoLeagues\obj\Debug\ConsoleBrontoLeagues.exe
+C:\Users\wilson\Documents\Proyectos\Bronto\ConsoleBrontoLeagues\obj\Debug\ConsoleBrontoLeagues.pdb
