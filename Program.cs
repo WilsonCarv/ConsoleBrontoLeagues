@@ -1,5 +1,6 @@
 ﻿using ConsoleBrontoLeagues.Models;
 using ConsoleBrontoLeagues.Utils;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,6 +18,7 @@ namespace ConsoleBrontoLeagues
         }
         public static void GetPlayers()
         {
+            string ClassName = "Console Bronto Leagues";
             try
             {
                 BrontoResult ObjBrontoJazz = new BrontoResult();
@@ -36,7 +38,7 @@ namespace ConsoleBrontoLeagues
             }
             catch (Exception ex)
             {
-
+                new LogError().LogErrors(ClassName, System.Reflection.MethodBase.GetCurrentMethod().Name, JsonConvert.SerializeObject(ex));
                 throw ex;
             }
         }
